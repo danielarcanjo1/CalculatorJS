@@ -15,16 +15,16 @@ main{
 
 .calculator{
     width: 335px;
-    height: 400px;
+    height: 460px;
     background-color: rgb(87, 87, 99);
     
 }
 
-#displayCalc{
+.displayCalc{
     width:310px;
     height: 100px;
     border-radius: 10px;
-    font-size:60px;
+    font-size:30px;
     text-align: right;
     border: none;
     outline: none;
@@ -50,6 +50,7 @@ main{
     align-items: center;
     justify-content: center;
     border-radius: 5px;
+    cursor: pointer;
     
 }
 
